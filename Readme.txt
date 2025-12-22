@@ -4,7 +4,7 @@ A modern, responsive portfolio website built to showcase my learning journey, sk
 
 ## Live Demo
 
-
+https://babamosie333.github.io/Personal-Portfolio/
 
 ---
 
@@ -44,16 +44,6 @@ A modern, responsive portfolio website built to showcase my learning journey, sk
 ---
 
 ## Getting Started (Local)
-
-
-
-
-
-
-
-
-
-
 
 
 
