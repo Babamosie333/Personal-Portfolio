@@ -1,3 +1,66 @@
+# Personal Portfolio – Vikram Singh
+
+A modern, responsive portfolio website built to showcase my learning journey, skills, and real projects in Web Development, UI/UX, Python, Data, and Automation.
+
+## Live Demo
+
+
+
+---
+
+## Tech Stack
+
+- **HTML5** – Semantic structure and accessible content layout.
+- **CSS3 + Custom Design System** – Dark theme, typography scale, spacing system, reusable utility classes.
+- **Bootstrap** – Grid system, responsive layout, navbars, cards, and form components.
+- **JavaScript (ES6)** – Navigation toggle, scroll animations, counters, portfolio filtering, and interactive UI.
+- **Formspree** – Handles contact form submissions without a custom backend.
+- **Vendor libraries**
+  - AOS – Scroll animations
+  - Swiper – Sliders/carousels
+  - GLightbox – Image lightbox for portfolio items
+  - PureCounter – Animated counters
+  - Bootstrap Icons – Icon set
+
+---
+
+## Main Sections
+
+- **Hero** – Quick summary, role, and call‑to‑action buttons.
+- **About** – Background, interests, and quick stats.
+- **Skills** – Frontend, backend, tools and technologies with progress bars.
+- **Resume** – Education, internships, certifications, and experience.
+- **Portfolio** – Real projects with detail pages (E‑commerce app, AI chatbot, recommendation system, etc.).
+- **Services** – What I can deliver as a student developer.
+- **Testimonials** – Feedback from mentors and collaborators.
+- **Learning Journey** – Timeline of how I learned web dev, Python, data and AI.
+- **Explore Pages**
+  - Skills & Tools
+  - Certificates & Achievements
+  - Blog & Case Studies
+  - Social Profiles
+- **Contact** – Contact form powered by Formspree plus direct email/phone info.
+
+---
+
+## Getting Started (Local)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Project Name: Personal Portfolio – Vikram Singh
 
