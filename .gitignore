@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+Readme.txt
+assets/
+blog.html
+certificates.html
+composer.json
+composer.lock
+forms/
+index.html
+og-image.jpg
+portfolio-details.html
+service-details.html
+skills-tools.html
+social.html
+vendor/
